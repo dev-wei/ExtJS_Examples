@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/HelloWorld.html" libraries="{ExtJS GPL-5.0, jQuery-2.0.0}" />
+    <file url="PROJECT" libraries="{ExtJS GPL-5.0, jQuery-2.0.0}" />
+  </component>
+</project>
+

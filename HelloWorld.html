@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to Ext JS!</title>
+    <link rel="stylesheet" type="text/css"
+          href="http://cdn.sencha.com/ext/gpl/5.0.0/build/packages/ext-theme-neptune/build/resources/ext-theme-neptune-all.css">
+    <script type="text/javascript" src="http://cdn.sencha.com/ext/gpl/5.0.0/build/ext-all.js"></script>
+</head>
+<body></body>
+</html>
+<script>
+    Ext.create('Ext.Panel', {
+        renderTo: Ext.getBody(),
+        width: 200,
+        height: 200,
+        bodyPadding: 5,
+        title: 'Hello World',
+        html: 'Hello <b>World</b>...'
+    });
+</script>
